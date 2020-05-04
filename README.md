@@ -47,11 +47,11 @@ localhost:3000
 https://drive.google.com/file/d/1vTQHN9eqj_5S84_7qu16eGsvrItuRA--/view?usp=sharing
 
 
-Backend : 
+## Backend : 
 
 https://drive.google.com/file/d/1vSvRCWUGZrdTOUe83A0U7fm0FbjIugUF/view?usp=sharing
 
-Mongo Db setup : 
+## Mongo Db setup : 
 
 1. go to Google and search "mongo DB Atlas " 
 2. signup if you are doing it for a first time / login if you already have one
